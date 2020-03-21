@@ -2,6 +2,7 @@
 node_modules/
 webpack-stats.dev.json
 webpack-stats.prod.json
+staticfiles/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
